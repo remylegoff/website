@@ -49,13 +49,10 @@ featured: true
 
 links:
 url_pdf: https://onlinelibrary.wiley.com/doi/epdf/10.1111/gcb.70256
-url_code: 'https://doi.org/10.5281/zenodo.15341993 https://doi.org/10.5281/zenodo.15295380 https://doi.org/10.5281/zenodo.15306956'
-url_dataset: ''
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_code: https://doi.org/10.5281/zenodo.15341993 
+url_dataset: https://doi.org/10.5281/zenodo.15295380 
+url_dataset: https://doi.org/10.5281/zenodo.15306956
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -79,11 +76,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).

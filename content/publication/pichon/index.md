@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Methods in Ecology and Evolution"
@@ -47,11 +47,6 @@ featured: true
 url_pdf: https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14328
 url_code: 'https://doi.org/10.5281/zenodo.10686764'
 url_dataset: 'https://doi.org/10.5281/zenodo.10686764'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
