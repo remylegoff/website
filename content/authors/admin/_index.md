@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'remy.le-goff@umontpellier.fr'
+    url: 'mailto:remy.le-goff@umontpellier.fr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/remylegoff1
