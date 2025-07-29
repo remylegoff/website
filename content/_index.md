@@ -38,17 +38,17 @@ sections:
         I'm a PhD Student at Montpellier University working on Marine Ecology and Evolution. Currently working on the spatial pattern of tropical fish diversity and their origin. 
     design:
       columns: '1'
-  #- block: collection
-  #  id: papers
-  #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
-  #  design:
-  #    view: article-grid
-  #    columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   #- block: collection
   #  content:
   #    title: Recent Publications
