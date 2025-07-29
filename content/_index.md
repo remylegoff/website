@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I'm a PhD Student at Montpellier University working on Marine Ecology and Evolution. Currently working on the spatial pattern of tropical fish diversity and their origin. 
@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: [Publications](https://remylegoff.github.io/website/publications/)
       filters:
         folders:
           - publication
