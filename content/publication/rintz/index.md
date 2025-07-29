@@ -15,7 +15,7 @@ authors:
 - Marine Robuchon
 - Baptiste Serandour
 - Boris Leroy
-date: "2025"
+date: "2025-01-01"
 doi: "10.1111/gcb.70256"
 
 # Schedule page publish date (NOT publication's date).

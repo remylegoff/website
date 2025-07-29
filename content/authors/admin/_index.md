@@ -91,11 +91,11 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: r
+        icon: devicon/r
       - name: Julia
         description: ''
         percent: 50
-        icon: julia 
+        icon: devicon/julia 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -103,15 +103,15 @@ skills:
       - name: Music
         description: 'Clarinet and Bass Clarinet'
         percent: 80
-        icon: saxophone
+        icon: custom/saxophone
       - name: Hiking
         description: ''
         percent: 100
-        icon: mountain
+        icon: custom/mountain
       - name: Role Playing
         description: ''
         percent: 80
-        icon: wizard
+        icon: custom/wizard
 
 languages:
   - name: English
