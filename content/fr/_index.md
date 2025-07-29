@@ -32,10 +32,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: 'Ma recherche'
       subtitle: ''
       text: |-
-        I'm a PhD Student at Montpellier University working on Marine Ecology and Evolution. Currently working on the spatial pattern of tropical fish diversity and their origin. 
+        Doctorant en 2e année à l'université de Montpellier, je travaille sur le rôle des interactions biotiques et abiotiques dans la diversification des poissons coralliens. Je développe actuellement un modèle mécanistique permettant la simulation d'espèces virtuelles selon de grands processus éco-évolutifs afin de mieux comprendre quels paramètres peuvent influencer la distribution de la diversité sur la surface du globe.  
     design:
       columns: '1'
   - block: collection
@@ -62,7 +62,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks
+      title: Conférences
       filters:
         folders:
           - event

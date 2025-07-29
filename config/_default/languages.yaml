@@ -32,6 +32,6 @@ fr:
     - name: Projets
       url: projets/
       weight: 14
-    - name: enseignemtn
+    - name: Enseignement
       url: enseignement/
       weight: 15
