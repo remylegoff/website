@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Projets
-      text: Les différents projets pour lequel je suis le développeur principal soit dans le cadre de ma thèse soit de projet personnel.
+      text: Les différents projets en tant que développeur principal soit dans le cadre de ma thèse soit de projet personnel.
       filters:
         folders:
           - project

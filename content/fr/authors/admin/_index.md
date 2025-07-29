@@ -101,7 +101,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Musique
-        description: 'Clarinette and Clarinette basse'
+        description: 'Clarinette et Clarinette basse'
         percent: 80
         icon: custom/saxophone
       - name: Randonnée, naturalisme

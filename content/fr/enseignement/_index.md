@@ -10,7 +10,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: 'Teaching'
+      title: 'Enseignement'
       subtitle: ''
       text: |-
         Pendant mon doctorat, j’ai enseigné dans deux cours à l’Université de Montpellier au sein du département de Biologie et d’Écologie.
