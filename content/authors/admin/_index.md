@@ -83,7 +83,7 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: python
       - name: Data Science
         description: ''
         percent: 100
@@ -91,11 +91,11 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: code-bracket
+        icon: r
       - name: Julia
         description: ''
         percent: 50
-        icon: code-bracket 
+        icon: julia 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
