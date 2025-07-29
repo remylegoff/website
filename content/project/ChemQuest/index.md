@@ -7,5 +7,5 @@ tags:
   - Shiny
 ---
 
-R Shiny to extract feature from PubChem 
+R Shiny to extract feature from PubChem
 <!--more-->

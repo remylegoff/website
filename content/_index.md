@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: [Publications](https://remylegoff.github.io/website/publications/)
+      title: Publications
       filters:
         folders:
           - publication
