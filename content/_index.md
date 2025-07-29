@@ -55,19 +55,19 @@ sections:
   #    text: ""
   #    filters:
   #      folders:
-  #        - publication
+  #        - publicationarticle-grid
   #      exclude_featured: false
   #  design:
   #    view: citation
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
     design:
-      view: article-grid
+      view: date-title-summary
       columns: 1
   #- block: collection
   #  id: news
