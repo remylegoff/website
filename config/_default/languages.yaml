@@ -12,13 +12,13 @@ en:
 fr:
   languageCode: fr-fr
   contentDir: content/fr
-  title: French website title...
+  title: Site personnel de Rémy Le Goff
   params:
     description: Site description in French
   menu:
     main:
     - name: Accueil 
-      url: /
+      url: content/fr
       weight: 10
     - name: Publications
       url: publications/

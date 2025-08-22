@@ -10,6 +10,9 @@ design:
 
 # Page sections
 sections:
+  - button:
+      text: 'Download Resume'
+      url: uploads/resume.pdf
   - block: resume-experience
     content:
       username: admin
