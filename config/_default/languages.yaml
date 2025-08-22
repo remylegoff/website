@@ -3,35 +3,32 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  contentDir: content/en
-
-# Uncomment the lines below to configure your website in a second language.
 fr:
   languageCode: fr-fr
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/fr
-  title: Site personnel de Rémy Le Goff
-  params:
-    description: Site description in French
-  menu:
+
+# Uncomment the lines below to configure your website in a second language.
+en:
+  languageCode: en-us
+  contentDir: content/en
+  menus:
     main:
-    - name: Accueil 
-      url: content/fr
-      weight: 10
-    - name: Publications
-      url: publications/
-      weight: 11
-    - name: Conférences
-      url: conferences/
-      weight: 12
-    - name: CV
-      url: cv/
-      weight: 13
-    - name: Projets
-      url: projets/
-      weight: 14
-    - name: Enseignement
-      url: enseignement/
-      weight: 15
+      - name: Home
+        url: en/
+        weight: 10
+      - name: Papers
+        url: publications/
+        weight: 11
+      - name: Talks
+        url: talks/
+        weight: 12
+      - name: Experience
+        url: experience/
+        weight: 13
+      - name: Projects
+        url: projects/
+        weight: 14
+      - name: Teaching
+        url: teaching/
+        weight: 15

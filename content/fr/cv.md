@@ -10,12 +10,6 @@ design:
 
 # Page sections
 sections:
-  - block: markdown
-    content:
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Télécharger CV
-        url: uploads/fr.pdf
   - block: resume-experience
     content:
       username: admin
