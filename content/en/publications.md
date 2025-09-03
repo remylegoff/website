@@ -10,15 +10,24 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: papers
+    id: fapapers
     content:
-      title: Papers
-      text: |- 
-        I worked on these papers during my early career as an intern in both French National Museum and École Normale Supérieur. I mainly developed code for analysis and exploratory works.
+      title: First Authors Papers
       filters:
         folders:
           - publication
         featured_only: true
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
+    id: papers
+    content:
+      title: All Papers
+      filters:
+        folders:
+          - publication
+        featured_only: false
     design:
       view: article-grid
       columns: 2

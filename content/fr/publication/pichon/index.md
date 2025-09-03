@@ -39,7 +39,7 @@ tags:
 - machine learning 
 - motif frequency
 - networkstructure
-featured: true
+featured: false
 
 # links:
 # - name: ""

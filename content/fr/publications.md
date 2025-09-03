@@ -10,15 +10,25 @@ design:
 # Page sections
 sections:
   - block: collection
-    id: papers
+    id: fapapers
     content:
-      title: Publications
-      text: |- 
-        J’ai travaillé sur ces articles au début de ma carrière lors de stages au Muséum national d’Histoire naturelle et à l’École Normale Supérieure. J’ai principalement développé du code pour l’analyse et l’exploration des données.
+      title: Publications en Premier Auteur
+      
       filters:
         folders:
           - publication
         featured_only: true
+    design:
+      view: article-grid
+      columns: 1
+  - block: collection
+    id: papers
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        featured_only: false
     design:
       view: article-grid
       columns: 2
