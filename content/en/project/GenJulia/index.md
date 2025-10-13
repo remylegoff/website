@@ -1,7 +1,6 @@
 ---
 title: GenJulia
 date: 2025-07-01
-external_link: https://github.com/remylegoff/genesis_julia
 tags: 
   - JULIA
   - R
