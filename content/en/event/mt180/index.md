@@ -10,7 +10,7 @@ address:
   city: Montpellier
   country: France
 
-summary: Presentation for ma thèse en 180 secondes, a scientific vulgarisation contest
+summary: Ma thèse en 180 secondes, a french scientific vulgarisation contest
 abstract: "The contest Ma thèse en 180 secondes aims to publicly explain the PhD thesis in a limited short time. After preselection and a formation period, the contestant present in front of non scientific public (around 500 people) and want to convince that they are the best. The contest is the occasion to learn to be concise, precise and simple at the same time for every one to understand the thesis. It's a great opportunity to look at the subject from another point of view and explain it to other. Youtube video link [here](https://www.youtube.com/watch?v=5rL62KME39E
 )"
 

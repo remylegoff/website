@@ -10,7 +10,7 @@ address:
   city: Montpellier
   country: France
 
-summary: Presentation pour **Ma thèse en 180 secondes**, un concours d'éloquence et de vulgarisation scientifique
+summary: "**Ma thèse en 180 secondes**, un concours d'éloquence et de vulgarisation scientifique"
 abstract: "Le concours « Ma thèse en 180 secondes » vise à expliquer publiquement une thèse de doctorat en un temps limité. Après une présélection et une période de formation, les candidats présentent leur sujet devant un public non scientifique (environ 500 personnes) et doivent convaincre qu’ils sont les meilleurs. Ce concours est l’occasion d’apprendre à être concis, précis et simple afin que tout le monde puisse comprendre la thèse. C’est une excellente opportunité de porter un nouveau regard sur son sujet et de l’expliquer aux autres. Lien vers la vidéo YouTube [ici](https://www.youtube.com/watch?v=5rL62KME39E)"
 
 # Talk start and end times.

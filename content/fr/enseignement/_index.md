@@ -30,7 +30,7 @@ sections:
 
         ## Master
 
-        J’ai également enseigné un cours en début de master pour revoir les bases des années précédentes, notamment pour les étudiants venant d’autres universités.
+        J’ai également enseigné un cours en début de master pour revoir les bases des années précédentes, notamment pour les étudiants venant d’autres universités. C'est une version condensée du cours de Licence. 
     design:
       columns: '1'
 ---

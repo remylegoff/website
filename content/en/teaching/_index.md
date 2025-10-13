@@ -28,7 +28,7 @@ sections:
 
         ## Master degree
 
-        I've teached for the course at the beginning of the degree to learn the basis from previous years that might have not been seen for some students coming from other universities.
+        I've teached for the course at the beginning of the degree to learn the basis from previous years that might have not been seen for some students coming from other universities. It's a short version of the Undergrade course. 
     design:
       columns: '1'
 ---

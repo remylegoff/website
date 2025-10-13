@@ -1,5 +1,5 @@
 ---
-title: "Une vue multidimensionnelle de la spéciation : relier la micro et la macroévolution"
+title:  Diversité dépendance chez les poissons tropicaux influence la distribution des taux récent d'évolution des traits
 
 event: "Une vue multidimensionnelle de la spéciation : relier la micro et la macroévolution"
 event_url: https://www.insb.cnrs.fr/fr/une-vue-multidimensionnelle-de-la-speciation-relier-la-micro-et-la-macroevolution
@@ -10,7 +10,7 @@ address:
   city: Roscoff
   country: France
 
-summary: Diversité dépendance chez les poissons tropicaux influence la distribution des taux récent d'évolution des traits
+summary: "Une vue multidimensionnelle de la spéciation : relier la micro et la macroévolution"
 abstract: 'Dans le domaine marin, la concentration croissante d’espèces vers l’Archipel Indo-Australien (IAA) a été largement étudiée et de nombreuses hypothèses ont été proposées pour expliquer ce gradient longitudinal marqué de diversité. De nombreuses hypothèses historiques et évolutives ont ainsi été avancées pour expliquer l’origine de ce gradient, et un consensus s’est dégagé sur le fait que ces hypothèses ne sont pas mutuellement exclusives, l’IAA ayant successivement servi de centre d’accumulation, d’origination et de survie au cours des temps géologiques.
 
 Bien que des progrès significatifs aient été réalisés ces dernières années dans la compréhension de l’origine du gradient longitudinal de diversité des poissons marins tropicaux, plusieurs questions restent inexplorées. Par exemple, des études récentes suggèrent que des écosystèmes complexes et riches en ressources, comme les récifs coralliens, peuvent favoriser l’émergence de nouvelles espèces et l’évolution de certains traits en offrant des opportunités écologiques. À l’inverse, d’autres travaux proposent que la dépendance à la diversité et la saturation écologique peuvent limiter la richesse spécifique en contraignant à la fois la diversification et l’évolution des traits.

@@ -1,5 +1,5 @@
 ---
-title: "Une vue multidimensionnelle de la spéciation : relier la micro et la macroévolution"
+title: "Diversity-dependence in tropical reef fish assemblages influences spatial patterns of recent trait evolution rates"
 
 event: "Une vue multidimensionnelle de la spéciation : relier la micro et la macroévolution"
 event_url: https://www.insb.cnrs.fr/fr/une-vue-multidimensionnelle-de-la-speciation-relier-la-micro-et-la-macroevolution
@@ -10,7 +10,7 @@ address:
   city: Roscoff
   country: France
 
-summary: Diversity-dependence in tropical reef fish assemblages influences spatial patterns of recent trait evolution rates
+summary: "Une vue multidimensionnelle de la spéciation : relier la micro et la macroévolution"
 abstract: 'In the marine realm, the increasing concentration of species toward the Indo-Australian Archipelago (IAA) has been extensively studied, and numerous hypotheses have been proposed to explain this pronounced longitudinal diversity gradient. Numerous historical and evolutionary hypotheses have been proposed to explain the origin of this longitudinal gradient in marine diversity. A consensus has emerged that these hypotheses are not mutually exclusive, as the IAA has successively served as a center of accumulation, origination, and survival through geological time. 
 
 Although significant progress has been made in recent years in understanding the origin of the longitudinal gradient in tropical marine fish diversity, several questions remain unexplored. For example, recent studies suggest that complex, resource-rich ecosystems such as coral reefs may promote the emergence of novel species and the evolution of traits by providing ecological opportunities. Conversely, other studies propose that diversity dependence and ecological saturation may limit species richness by constraining both diversification and trait evolution
