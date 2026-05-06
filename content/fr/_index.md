@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Télécharger CV
-        url: uploads/fr.pdf
+        url: https://remylegoff.github.io/website/uploads/cv.pdf
     design:
       css_class: dark
       background:
